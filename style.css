@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 200px; 
+    height: 200px;
+}
+
+.Container {
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+}
+.Container >div{
+    margin: 5px;
+    padding: 10px;
+    text-align: center; 
+  
+
+}
+
+.Recipe {
+     color: black;
+     font-size: 18px;
+     
+    
+}
+
+.no-line {
+    text-decoration: none;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+}
